@@ -1,0 +1,1 @@
+../splitdata.sh

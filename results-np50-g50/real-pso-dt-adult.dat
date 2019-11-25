@@ -1,0 +1,3067 @@
+14
+Generation 1
+# of feats=3 Fitness=-0.186447310138 [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 1]
+Generation 2
+# of feats=3 Fitness=-0.196118023419 [0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 3
+# of feats=3 Fitness=-0.19952869024 [0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 1, 0, 0, 0]
+Generation 4
+# of feats=3 Fitness=-0.19952869024 [0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 1, 0, 0, 0]
+Generation 5
+# of feats=3 Fitness=-0.19952869024 [0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 1, 0, 0, 0]
+Generation 6
+# of feats=4 Fitness=-0.224612256155 [0, 0, 0, 0, 1, 1, 0, 0, 1, 0, 1, 0, 0, 0]
+Generation 7
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 8
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 9
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 10
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 11
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 12
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 13
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 14
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 15
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 16
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 17
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 18
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 19
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 20
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 21
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 22
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 23
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 24
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 25
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 26
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 27
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 28
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 29
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 30
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 31
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 32
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 33
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 34
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 35
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 36
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 37
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 38
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 39
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 40
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 41
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 42
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 43
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 44
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 45
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 46
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 47
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 48
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 49
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 50
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 1
+# of feats=5 Fitness=-0.0967430742402 [0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 1, 1, 1, 0]
+Generation 2
+# of feats=3 Fitness=-0.231195252762 [0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0]
+Generation 3
+# of feats=3 Fitness=-0.231195252762 [0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0]
+Generation 4
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 5
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 6
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 7
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 8
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 9
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 10
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 11
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 12
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 13
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 14
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 15
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 16
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 17
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 18
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 19
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 20
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 21
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 22
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 23
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 24
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 25
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 26
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 27
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 28
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 29
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 30
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 31
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 32
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 33
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 34
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 35
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 36
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 37
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 38
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 39
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 40
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 41
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 42
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 43
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 44
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 45
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 46
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 47
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 48
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 49
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 50
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 1
+# of feats=5 Fitness=-0.143293613441 [0, 0, 1, 1, 0, 1, 0, 0, 0, 0, 0, 1, 1, 0]
+Generation 2
+# of feats=4 Fitness=-0.208873009816 [0, 0, 1, 1, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0]
+Generation 3
+# of feats=4 Fitness=-0.208873009816 [0, 0, 1, 1, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0]
+Generation 4
+# of feats=5 Fitness=-0.229111759405 [0, 0, 1, 1, 0, 1, 0, 0, 0, 0, 1, 1, 0, 0]
+Generation 5
+# of feats=5 Fitness=-0.229111759405 [0, 0, 1, 1, 0, 1, 0, 0, 0, 0, 1, 1, 0, 0]
+Generation 6
+# of feats=5 Fitness=-0.229111759405 [0, 0, 1, 1, 0, 1, 0, 0, 0, 0, 1, 1, 0, 0]
+Generation 7
+# of feats=5 Fitness=-0.229111759405 [0, 0, 1, 1, 0, 1, 0, 0, 0, 0, 1, 1, 0, 0]
+Generation 8
+# of feats=5 Fitness=-0.229111759405 [0, 0, 1, 1, 0, 1, 0, 0, 0, 0, 1, 1, 0, 0]
+Generation 9
+# of feats=5 Fitness=-0.229111759405 [0, 0, 1, 1, 0, 1, 0, 0, 0, 0, 1, 1, 0, 0]
+Generation 10
+# of feats=5 Fitness=-0.229111759405 [0, 0, 1, 1, 0, 1, 0, 0, 0, 0, 1, 1, 0, 0]
+Generation 11
+# of feats=5 Fitness=-0.229111759405 [0, 0, 1, 1, 0, 1, 0, 0, 0, 0, 1, 1, 0, 0]
+Generation 12
+# of feats=5 Fitness=-0.229111759405 [0, 0, 1, 1, 0, 1, 0, 0, 0, 0, 1, 1, 0, 0]
+Generation 13
+# of feats=4 Fitness=-0.233278328763 [0, 0, 1, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 14
+# of feats=4 Fitness=-0.233278328763 [0, 0, 1, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 15
+# of feats=4 Fitness=-0.233278328763 [0, 0, 1, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 16
+# of feats=4 Fitness=-0.233278328763 [0, 0, 1, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 17
+# of feats=4 Fitness=-0.233278328763 [0, 0, 1, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 18
+# of feats=4 Fitness=-0.233278328763 [0, 0, 1, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 19
+# of feats=4 Fitness=-0.233278328763 [0, 0, 1, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 20
+# of feats=4 Fitness=-0.233278328763 [0, 0, 1, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 21
+# of feats=4 Fitness=-0.233278328763 [0, 0, 1, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 22
+# of feats=4 Fitness=-0.233278328763 [0, 0, 1, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 23
+# of feats=4 Fitness=-0.233278328763 [0, 0, 1, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 24
+# of feats=4 Fitness=-0.233278328763 [0, 0, 1, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 25
+# of feats=4 Fitness=-0.233278328763 [0, 0, 1, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 26
+# of feats=4 Fitness=-0.233278328763 [0, 0, 1, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 27
+# of feats=4 Fitness=-0.233278328763 [0, 0, 1, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 28
+# of feats=4 Fitness=-0.233278328763 [0, 0, 1, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 29
+# of feats=4 Fitness=-0.233278328763 [0, 0, 1, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 30
+# of feats=4 Fitness=-0.233278328763 [0, 0, 1, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 31
+# of feats=4 Fitness=-0.233278328763 [0, 0, 1, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 32
+# of feats=4 Fitness=-0.233278328763 [0, 0, 1, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 33
+# of feats=4 Fitness=-0.233278328763 [0, 0, 1, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 34
+# of feats=4 Fitness=-0.233278328763 [0, 0, 1, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 35
+# of feats=4 Fitness=-0.233278328763 [0, 0, 1, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 36
+# of feats=4 Fitness=-0.233278328763 [0, 0, 1, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 37
+# of feats=4 Fitness=-0.233278328763 [0, 0, 1, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 38
+# of feats=4 Fitness=-0.233278328763 [0, 0, 1, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 39
+# of feats=4 Fitness=-0.233278328763 [0, 0, 1, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 40
+# of feats=4 Fitness=-0.233278328763 [0, 0, 1, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 41
+# of feats=4 Fitness=-0.233278328763 [0, 0, 1, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 42
+# of feats=4 Fitness=-0.233278328763 [0, 0, 1, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 43
+# of feats=4 Fitness=-0.233278328763 [0, 0, 1, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 44
+# of feats=4 Fitness=-0.233278328763 [0, 0, 1, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 45
+# of feats=4 Fitness=-0.233278328763 [0, 0, 1, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 46
+# of feats=4 Fitness=-0.233278328763 [0, 0, 1, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 47
+# of feats=4 Fitness=-0.233278328763 [0, 0, 1, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 48
+# of feats=4 Fitness=-0.233278328763 [0, 0, 1, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 49
+# of feats=4 Fitness=-0.233278328763 [0, 0, 1, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 50
+# of feats=4 Fitness=-0.233278328763 [0, 0, 1, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 1
+# of feats=4 Fitness=-0.108989906831 [0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 1]
+Generation 2
+# of feats=4 Fitness=-0.241447335568 [0, 0, 1, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 3
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 4
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 5
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 6
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 7
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 8
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 9
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 10
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 11
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 12
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 13
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 14
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 15
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 16
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 17
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 18
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 19
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 20
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 21
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 22
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 23
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 24
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 25
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 26
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 27
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 28
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 29
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 30
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 31
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 32
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 33
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 34
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 35
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 36
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 37
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 38
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 39
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 40
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 41
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 42
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 43
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 44
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 45
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 46
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 47
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 48
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 49
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 50
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 1
+# of feats=5 Fitness=-0.17908215401 [0, 1, 1, 0, 0, 1, 0, 0, 0, 0, 1, 1, 0, 0]
+Generation 2
+# of feats=5 Fitness=-0.238623206468 [0, 0, 1, 0, 1, 1, 0, 0, 0, 0, 1, 1, 0, 0]
+Generation 3
+# of feats=4 Fitness=-0.241447335568 [0, 0, 1, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 4
+# of feats=4 Fitness=-0.241447335568 [0, 0, 1, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 5
+# of feats=4 Fitness=-0.241447335568 [0, 0, 1, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 6
+# of feats=4 Fitness=-0.241447335568 [0, 0, 1, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 7
+# of feats=4 Fitness=-0.241447335568 [0, 0, 1, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 8
+# of feats=4 Fitness=-0.241447335568 [0, 0, 1, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 9
+# of feats=4 Fitness=-0.241447335568 [0, 0, 1, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 10
+# of feats=4 Fitness=-0.241447335568 [0, 0, 1, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 11
+# of feats=4 Fitness=-0.241447335568 [0, 0, 1, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 12
+# of feats=4 Fitness=-0.241447335568 [0, 0, 1, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 13
+# of feats=4 Fitness=-0.241447335568 [0, 0, 1, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 14
+# of feats=4 Fitness=-0.241447335568 [0, 0, 1, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 15
+# of feats=4 Fitness=-0.241447335568 [0, 0, 1, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 16
+# of feats=4 Fitness=-0.246561064942 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 1, 0, 0]
+Generation 17
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 18
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 19
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 20
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 21
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 22
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 23
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 24
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 25
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 26
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 27
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 28
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 29
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 30
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 31
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 32
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 33
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 34
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 35
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 36
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 37
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 38
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 39
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 40
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 41
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 42
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 43
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 44
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 45
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 46
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 47
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 48
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 49
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 50
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 1
+# of feats=4 Fitness=-0.103643481591 [1, 1, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0]
+Generation 2
+# of feats=4 Fitness=-0.193033862671 [0, 1, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 3
+# of feats=4 Fitness=-0.193033862671 [0, 1, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 4
+# of feats=4 Fitness=-0.193033862671 [0, 1, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 5
+# of feats=4 Fitness=-0.193033862671 [0, 1, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 6
+# of feats=4 Fitness=-0.193033862671 [0, 1, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 7
+# of feats=4 Fitness=-0.193033862671 [0, 1, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 8
+# of feats=4 Fitness=-0.193033862671 [0, 1, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 9
+# of feats=4 Fitness=-0.193033862671 [0, 1, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 10
+# of feats=4 Fitness=-0.193033862671 [0, 1, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 11
+# of feats=4 Fitness=-0.224612256155 [0, 0, 0, 0, 1, 1, 0, 0, 1, 0, 1, 0, 0, 0]
+Generation 12
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 13
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 14
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 15
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 16
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 17
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 18
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 19
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 20
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 21
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 22
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 23
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 24
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 25
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 26
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 27
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 28
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 29
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 30
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 31
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 32
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 33
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 34
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 35
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 36
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 37
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 38
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 39
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 40
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 41
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 42
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 43
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 44
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 45
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 46
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 47
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 48
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 49
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 50
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 1
+# of feats=5 Fitness=-0.157126800086 [1, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0]
+Generation 2
+# of feats=2 Fitness=-0.199356670751 [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 3
+# of feats=3 Fitness=-0.206869938735 [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 1, 0, 0]
+Generation 4
+# of feats=3 Fitness=-0.206869938735 [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 1, 0, 0]
+Generation 5
+# of feats=3 Fitness=-0.206869938735 [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 1, 0, 0]
+Generation 6
+# of feats=3 Fitness=-0.206869938735 [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 1, 0, 0]
+Generation 7
+# of feats=4 Fitness=-0.239219026898 [0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 1, 0, 0]
+Generation 8
+# of feats=3 Fitness=-0.242584752039 [0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 9
+# of feats=3 Fitness=-0.242584752039 [0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 10
+# of feats=3 Fitness=-0.242584752039 [0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 11
+# of feats=3 Fitness=-0.242584752039 [0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 12
+# of feats=3 Fitness=-0.242584752039 [0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 13
+# of feats=3 Fitness=-0.242584752039 [0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 14
+# of feats=3 Fitness=-0.242584752039 [0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 15
+# of feats=3 Fitness=-0.242584752039 [0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 16
+# of feats=3 Fitness=-0.242584752039 [0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 17
+# of feats=3 Fitness=-0.242584752039 [0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 18
+# of feats=3 Fitness=-0.242584752039 [0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 19
+# of feats=3 Fitness=-0.242584752039 [0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 20
+# of feats=3 Fitness=-0.242584752039 [0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 21
+# of feats=3 Fitness=-0.242584752039 [0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 22
+# of feats=3 Fitness=-0.242584752039 [0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 23
+# of feats=3 Fitness=-0.242584752039 [0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 24
+# of feats=3 Fitness=-0.242584752039 [0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 25
+# of feats=3 Fitness=-0.242584752039 [0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 26
+# of feats=3 Fitness=-0.242584752039 [0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 27
+# of feats=3 Fitness=-0.242584752039 [0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 28
+# of feats=3 Fitness=-0.242584752039 [0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 29
+# of feats=3 Fitness=-0.242584752039 [0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 30
+# of feats=3 Fitness=-0.242584752039 [0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 31
+# of feats=3 Fitness=-0.242584752039 [0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 32
+# of feats=3 Fitness=-0.242584752039 [0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 33
+# of feats=3 Fitness=-0.242584752039 [0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 34
+# of feats=3 Fitness=-0.242584752039 [0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 35
+# of feats=3 Fitness=-0.242584752039 [0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 36
+# of feats=3 Fitness=-0.242584752039 [0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 37
+# of feats=3 Fitness=-0.242584752039 [0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 38
+# of feats=3 Fitness=-0.242584752039 [0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 39
+# of feats=3 Fitness=-0.242584752039 [0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 40
+# of feats=3 Fitness=-0.242584752039 [0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 41
+# of feats=3 Fitness=-0.242584752039 [0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 42
+# of feats=3 Fitness=-0.242584752039 [0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 43
+# of feats=3 Fitness=-0.242584752039 [0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 44
+# of feats=3 Fitness=-0.242584752039 [0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 45
+# of feats=3 Fitness=-0.242584752039 [0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 46
+# of feats=3 Fitness=-0.242584752039 [0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 47
+# of feats=3 Fitness=-0.242584752039 [0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 48
+# of feats=3 Fitness=-0.242584752039 [0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 49
+# of feats=3 Fitness=-0.242584752039 [0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 50
+# of feats=3 Fitness=-0.242584752039 [0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 1
+# of feats=3 Fitness=-0.186447310138 [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 1]
+Generation 2
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 3
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 4
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 5
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 6
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 7
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 8
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 9
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 10
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 11
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 12
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 13
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 14
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 15
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 16
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 17
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 18
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 19
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 20
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 21
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 22
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 23
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 24
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 25
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 26
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 27
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 28
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 29
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 30
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 31
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 32
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 33
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 34
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 35
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 36
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 37
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 38
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 39
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 40
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 41
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 42
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 43
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 44
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 45
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 46
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 47
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 48
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 49
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 50
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 1
+# of feats=4 Fitness=-0.161579184423 [0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1]
+Generation 2
+# of feats=4 Fitness=-0.239219026898 [0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 1, 0, 0]
+Generation 3
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 4
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 5
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 6
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 7
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 8
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 9
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 10
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 11
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 12
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 13
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 14
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 15
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 16
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 17
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 18
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 19
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 20
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 21
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 22
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 23
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 24
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 25
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 26
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 27
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 28
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 29
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 30
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 31
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 32
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 33
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 34
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 35
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 36
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 37
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 38
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 39
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 40
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 41
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 42
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 43
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 44
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 45
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 46
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 47
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 48
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 49
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 50
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 1
+# of feats=4 Fitness=-0.191693537885 [0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 1, 1, 0, 0]
+Generation 2
+# of feats=4 Fitness=-0.23398400517 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 1, 0, 0]
+Generation 3
+# of feats=4 Fitness=-0.23398400517 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 1, 0, 0]
+Generation 4
+# of feats=4 Fitness=-0.23398400517 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 1, 0, 0]
+Generation 5
+# of feats=4 Fitness=-0.23398400517 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 1, 0, 0]
+Generation 6
+# of feats=4 Fitness=-0.23398400517 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 1, 0, 0]
+Generation 7
+# of feats=4 Fitness=-0.23398400517 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 1, 0, 0]
+Generation 8
+# of feats=4 Fitness=-0.23398400517 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 1, 0, 0]
+Generation 9
+# of feats=4 Fitness=-0.23398400517 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 1, 0, 0]
+Generation 10
+# of feats=4 Fitness=-0.23398400517 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 1, 0, 0]
+Generation 11
+# of feats=4 Fitness=-0.23398400517 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 1, 0, 0]
+Generation 12
+# of feats=4 Fitness=-0.23398400517 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 1, 0, 0]
+Generation 13
+# of feats=4 Fitness=-0.23398400517 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 1, 0, 0]
+Generation 14
+# of feats=4 Fitness=-0.23398400517 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 1, 0, 0]
+Generation 15
+# of feats=4 Fitness=-0.23398400517 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 1, 0, 0]
+Generation 16
+# of feats=4 Fitness=-0.23398400517 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 1, 0, 0]
+Generation 17
+# of feats=4 Fitness=-0.23398400517 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 1, 0, 0]
+Generation 18
+# of feats=4 Fitness=-0.23398400517 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 1, 0, 0]
+Generation 19
+# of feats=4 Fitness=-0.23398400517 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 1, 0, 0]
+Generation 20
+# of feats=4 Fitness=-0.23398400517 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 1, 0, 0]
+Generation 21
+# of feats=4 Fitness=-0.23398400517 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 1, 0, 0]
+Generation 22
+# of feats=4 Fitness=-0.23398400517 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 1, 0, 0]
+Generation 23
+# of feats=4 Fitness=-0.23398400517 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 1, 0, 0]
+Generation 24
+# of feats=4 Fitness=-0.23398400517 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 1, 0, 0]
+Generation 25
+# of feats=4 Fitness=-0.23398400517 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 1, 0, 0]
+Generation 26
+# of feats=4 Fitness=-0.23398400517 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 1, 0, 0]
+Generation 27
+# of feats=4 Fitness=-0.23398400517 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 1, 0, 0]
+Generation 28
+# of feats=4 Fitness=-0.23398400517 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 1, 0, 0]
+Generation 29
+# of feats=4 Fitness=-0.23398400517 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 1, 0, 0]
+Generation 30
+# of feats=4 Fitness=-0.23398400517 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 1, 0, 0]
+Generation 31
+# of feats=4 Fitness=-0.23398400517 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 1, 0, 0]
+Generation 32
+# of feats=4 Fitness=-0.23398400517 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 1, 0, 0]
+Generation 33
+# of feats=4 Fitness=-0.23398400517 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 1, 0, 0]
+Generation 34
+# of feats=4 Fitness=-0.246561064942 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 1, 0, 0]
+Generation 35
+# of feats=4 Fitness=-0.246561064942 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 1, 0, 0]
+Generation 36
+# of feats=4 Fitness=-0.246561064942 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 1, 0, 0]
+Generation 37
+# of feats=4 Fitness=-0.246561064942 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 1, 0, 0]
+Generation 38
+# of feats=4 Fitness=-0.246561064942 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 1, 0, 0]
+Generation 39
+# of feats=4 Fitness=-0.246561064942 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 1, 0, 0]
+Generation 40
+# of feats=4 Fitness=-0.246561064942 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 1, 0, 0]
+Generation 41
+# of feats=4 Fitness=-0.246561064942 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 1, 0, 0]
+Generation 42
+# of feats=4 Fitness=-0.246561064942 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 1, 0, 0]
+Generation 43
+# of feats=4 Fitness=-0.246561064942 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 1, 0, 0]
+Generation 44
+# of feats=4 Fitness=-0.246561064942 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 1, 0, 0]
+Generation 45
+# of feats=4 Fitness=-0.246561064942 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 1, 0, 0]
+Generation 46
+# of feats=4 Fitness=-0.246561064942 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 1, 0, 0]
+Generation 47
+# of feats=4 Fitness=-0.246561064942 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 1, 0, 0]
+Generation 48
+# of feats=4 Fitness=-0.246561064942 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 1, 0, 0]
+Generation 49
+# of feats=4 Fitness=-0.246561064942 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 1, 0, 0]
+Generation 50
+# of feats=4 Fitness=-0.246561064942 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 1, 0, 0]
+Generation 1
+# of feats=5 Fitness=-0.1426539432 [0, 1, 1, 0, 0, 0, 0, 1, 1, 0, 1, 0, 0, 0]
+Generation 2
+# of feats=4 Fitness=-0.23398400517 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 1, 0, 0]
+Generation 3
+# of feats=4 Fitness=-0.23398400517 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 1, 0, 0]
+Generation 4
+# of feats=4 Fitness=-0.23398400517 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 1, 0, 0]
+Generation 5
+# of feats=4 Fitness=-0.23398400517 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 1, 0, 0]
+Generation 6
+# of feats=4 Fitness=-0.23398400517 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 1, 0, 0]
+Generation 7
+# of feats=4 Fitness=-0.23398400517 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 1, 0, 0]
+Generation 8
+# of feats=4 Fitness=-0.23398400517 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 1, 0, 0]
+Generation 9
+# of feats=4 Fitness=-0.23398400517 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 1, 0, 0]
+Generation 10
+# of feats=4 Fitness=-0.23398400517 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 1, 0, 0]
+Generation 11
+# of feats=4 Fitness=-0.23398400517 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 1, 0, 0]
+Generation 12
+# of feats=4 Fitness=-0.23398400517 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 1, 0, 0]
+Generation 13
+# of feats=4 Fitness=-0.23398400517 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 1, 0, 0]
+Generation 14
+# of feats=4 Fitness=-0.23398400517 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 1, 0, 0]
+Generation 15
+# of feats=4 Fitness=-0.23398400517 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 1, 0, 0]
+Generation 16
+# of feats=4 Fitness=-0.23398400517 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 1, 0, 0]
+Generation 17
+# of feats=4 Fitness=-0.23398400517 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 1, 0, 0]
+Generation 18
+# of feats=4 Fitness=-0.23398400517 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 1, 0, 0]
+Generation 19
+# of feats=4 Fitness=-0.23398400517 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 1, 0, 0]
+Generation 20
+# of feats=4 Fitness=-0.23398400517 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 1, 0, 0]
+Generation 21
+# of feats=4 Fitness=-0.23398400517 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 1, 0, 0]
+Generation 22
+# of feats=4 Fitness=-0.23398400517 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 1, 0, 0]
+Generation 23
+# of feats=4 Fitness=-0.23398400517 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 1, 0, 0]
+Generation 24
+# of feats=4 Fitness=-0.23398400517 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 1, 0, 0]
+Generation 25
+# of feats=4 Fitness=-0.23398400517 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 1, 0, 0]
+Generation 26
+# of feats=4 Fitness=-0.23398400517 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 1, 0, 0]
+Generation 27
+# of feats=4 Fitness=-0.23398400517 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 1, 0, 0]
+Generation 28
+# of feats=4 Fitness=-0.23398400517 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 1, 0, 0]
+Generation 29
+# of feats=4 Fitness=-0.23398400517 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 1, 0, 0]
+Generation 30
+# of feats=4 Fitness=-0.23398400517 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 1, 0, 0]
+Generation 31
+# of feats=4 Fitness=-0.23398400517 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 1, 0, 0]
+Generation 32
+# of feats=4 Fitness=-0.23398400517 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 1, 0, 0]
+Generation 33
+# of feats=4 Fitness=-0.23398400517 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 1, 0, 0]
+Generation 34
+# of feats=4 Fitness=-0.23398400517 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 1, 0, 0]
+Generation 35
+# of feats=4 Fitness=-0.23398400517 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 1, 0, 0]
+Generation 36
+# of feats=4 Fitness=-0.23398400517 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 1, 0, 0]
+Generation 37
+# of feats=4 Fitness=-0.23398400517 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 1, 0, 0]
+Generation 38
+# of feats=4 Fitness=-0.23398400517 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 1, 0, 0]
+Generation 39
+# of feats=4 Fitness=-0.23398400517 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 1, 0, 0]
+Generation 40
+# of feats=4 Fitness=-0.23398400517 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 1, 0, 0]
+Generation 41
+# of feats=4 Fitness=-0.23398400517 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 1, 0, 0]
+Generation 42
+# of feats=4 Fitness=-0.23398400517 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 1, 0, 0]
+Generation 43
+# of feats=4 Fitness=-0.23398400517 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 1, 0, 0]
+Generation 44
+# of feats=4 Fitness=-0.23398400517 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 1, 0, 0]
+Generation 45
+# of feats=4 Fitness=-0.23398400517 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 1, 0, 0]
+Generation 46
+# of feats=4 Fitness=-0.23398400517 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 1, 0, 0]
+Generation 47
+# of feats=4 Fitness=-0.23398400517 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 1, 0, 0]
+Generation 48
+# of feats=4 Fitness=-0.23398400517 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 1, 0, 0]
+Generation 49
+# of feats=4 Fitness=-0.23398400517 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 1, 0, 0]
+Generation 50
+# of feats=4 Fitness=-0.23398400517 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 1, 0, 0]
+Generation 1
+# of feats=5 Fitness=-0.0904893593557 [0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 1, 1, 0, 1]
+Generation 2
+# of feats=4 Fitness=-0.241447335568 [0, 0, 1, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 3
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 4
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 5
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 6
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 7
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 8
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 9
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 10
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 11
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 12
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 13
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 14
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 15
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 16
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 17
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 18
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 19
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 20
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 21
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 22
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 23
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 24
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 25
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 26
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 27
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 28
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 29
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 30
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 31
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 32
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 33
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 34
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 35
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 36
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 37
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 38
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 39
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 40
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 41
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 42
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 43
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 44
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 45
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 46
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 47
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 48
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 49
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 50
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 1
+# of feats=4 Fitness=-0.0449437575508 [1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 1, 0, 0]
+Generation 2
+# of feats=3 Fitness=-0.161986065276 [0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 1, 0, 0, 0]
+Generation 3
+# of feats=3 Fitness=-0.237090056185 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0]
+Generation 4
+# of feats=3 Fitness=-0.237090056185 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0]
+Generation 5
+# of feats=3 Fitness=-0.237090056185 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0]
+Generation 6
+# of feats=3 Fitness=-0.237090056185 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0]
+Generation 7
+# of feats=3 Fitness=-0.237090056185 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0]
+Generation 8
+# of feats=3 Fitness=-0.237090056185 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0]
+Generation 9
+# of feats=3 Fitness=-0.237090056185 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0]
+Generation 10
+# of feats=3 Fitness=-0.237090056185 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0]
+Generation 11
+# of feats=3 Fitness=-0.237090056185 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0]
+Generation 12
+# of feats=3 Fitness=-0.237090056185 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0]
+Generation 13
+# of feats=3 Fitness=-0.237090056185 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0]
+Generation 14
+# of feats=3 Fitness=-0.237090056185 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0]
+Generation 15
+# of feats=3 Fitness=-0.237090056185 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0]
+Generation 16
+# of feats=3 Fitness=-0.237090056185 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0]
+Generation 17
+# of feats=3 Fitness=-0.237090056185 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0]
+Generation 18
+# of feats=3 Fitness=-0.237090056185 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0]
+Generation 19
+# of feats=3 Fitness=-0.237090056185 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0]
+Generation 20
+# of feats=3 Fitness=-0.237090056185 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0]
+Generation 21
+# of feats=3 Fitness=-0.237090056185 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0]
+Generation 22
+# of feats=3 Fitness=-0.237090056185 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0]
+Generation 23
+# of feats=3 Fitness=-0.237090056185 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0]
+Generation 24
+# of feats=3 Fitness=-0.237090056185 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0]
+Generation 25
+# of feats=3 Fitness=-0.237090056185 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0]
+Generation 26
+# of feats=3 Fitness=-0.237090056185 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0]
+Generation 27
+# of feats=3 Fitness=-0.237090056185 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0]
+Generation 28
+# of feats=3 Fitness=-0.237090056185 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0]
+Generation 29
+# of feats=3 Fitness=-0.237090056185 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0]
+Generation 30
+# of feats=3 Fitness=-0.237090056185 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0]
+Generation 31
+# of feats=3 Fitness=-0.237090056185 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0]
+Generation 32
+# of feats=3 Fitness=-0.237090056185 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0]
+Generation 33
+# of feats=3 Fitness=-0.237090056185 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0]
+Generation 34
+# of feats=3 Fitness=-0.237090056185 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0]
+Generation 35
+# of feats=3 Fitness=-0.237090056185 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0]
+Generation 36
+# of feats=3 Fitness=-0.237090056185 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0]
+Generation 37
+# of feats=3 Fitness=-0.237090056185 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0]
+Generation 38
+# of feats=3 Fitness=-0.237090056185 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0]
+Generation 39
+# of feats=3 Fitness=-0.237090056185 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0]
+Generation 40
+# of feats=3 Fitness=-0.237090056185 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0]
+Generation 41
+# of feats=3 Fitness=-0.237090056185 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0]
+Generation 42
+# of feats=3 Fitness=-0.237090056185 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0]
+Generation 43
+# of feats=3 Fitness=-0.237090056185 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0]
+Generation 44
+# of feats=3 Fitness=-0.237090056185 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0]
+Generation 45
+# of feats=3 Fitness=-0.237090056185 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0]
+Generation 46
+# of feats=3 Fitness=-0.237090056185 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0]
+Generation 47
+# of feats=3 Fitness=-0.237090056185 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0]
+Generation 48
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 49
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 50
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 1
+# of feats=3 Fitness=-0.17230353521 [0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0]
+Generation 2
+# of feats=2 Fitness=-0.173048047849 [0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0]
+Generation 3
+# of feats=2 Fitness=-0.173048047849 [0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0]
+Generation 4
+# of feats=2 Fitness=-0.173048047849 [0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0]
+Generation 5
+# of feats=4 Fitness=-0.197007898331 [0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 1, 1, 0, 0]
+Generation 6
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 7
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 8
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 9
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 10
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 11
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 12
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 13
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 14
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 15
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 16
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 17
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 18
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 19
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 20
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 21
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 22
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 23
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 24
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 25
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 26
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 27
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 28
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 29
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 30
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 31
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 32
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 33
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 34
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 35
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 36
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 37
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 38
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 39
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 40
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 41
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 42
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 43
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 44
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 45
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 46
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 47
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 48
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 49
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 50
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 1
+# of feats=5 Fitness=-0.086099600297 [0, 1, 1, 1, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0]
+Generation 2
+# of feats=3 Fitness=-0.237090056185 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0]
+Generation 3
+# of feats=4 Fitness=-0.246561064942 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 1, 0, 0]
+Generation 4
+# of feats=4 Fitness=-0.246561064942 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 1, 0, 0]
+Generation 5
+# of feats=4 Fitness=-0.246561064942 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 1, 0, 0]
+Generation 6
+# of feats=4 Fitness=-0.246561064942 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 1, 0, 0]
+Generation 7
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 8
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 9
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 10
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 11
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 12
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 13
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 14
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 15
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 16
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 17
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 18
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 19
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 20
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 21
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 22
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 23
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 24
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 25
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 26
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 27
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 28
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 29
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 30
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 31
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 32
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 33
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 34
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 35
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 36
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 37
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 38
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 39
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 40
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 41
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 42
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 43
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 44
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 45
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 46
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 47
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 48
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 49
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 50
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 1
+# of feats=3 Fitness=-0.112007322678 [0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 1, 0, 0, 0]
+Generation 2
+# of feats=2 Fitness=-0.220303751648 [0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]
+Generation 3
+# of feats=2 Fitness=-0.220303751648 [0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]
+Generation 4
+# of feats=3 Fitness=-0.231195252762 [0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0]
+Generation 5
+# of feats=3 Fitness=-0.231195252762 [0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0]
+Generation 6
+# of feats=3 Fitness=-0.231195252762 [0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0]
+Generation 7
+# of feats=3 Fitness=-0.231195252762 [0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0]
+Generation 8
+# of feats=3 Fitness=-0.231195252762 [0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0]
+Generation 9
+# of feats=3 Fitness=-0.231195252762 [0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0]
+Generation 10
+# of feats=3 Fitness=-0.231195252762 [0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0]
+Generation 11
+# of feats=3 Fitness=-0.231195252762 [0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0]
+Generation 12
+# of feats=3 Fitness=-0.231195252762 [0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0]
+Generation 13
+# of feats=3 Fitness=-0.242584752039 [0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 14
+# of feats=3 Fitness=-0.242584752039 [0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 15
+# of feats=3 Fitness=-0.242584752039 [0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 16
+# of feats=3 Fitness=-0.242584752039 [0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 17
+# of feats=3 Fitness=-0.242584752039 [0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 18
+# of feats=3 Fitness=-0.242584752039 [0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 19
+# of feats=3 Fitness=-0.242584752039 [0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 20
+# of feats=3 Fitness=-0.242584752039 [0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 21
+# of feats=3 Fitness=-0.242584752039 [0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 22
+# of feats=3 Fitness=-0.242584752039 [0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 23
+# of feats=3 Fitness=-0.242584752039 [0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 24
+# of feats=3 Fitness=-0.242584752039 [0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 25
+# of feats=3 Fitness=-0.242584752039 [0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 26
+# of feats=3 Fitness=-0.242584752039 [0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 27
+# of feats=3 Fitness=-0.242584752039 [0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 28
+# of feats=3 Fitness=-0.242584752039 [0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 29
+# of feats=3 Fitness=-0.242584752039 [0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 30
+# of feats=3 Fitness=-0.242584752039 [0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 31
+# of feats=3 Fitness=-0.242584752039 [0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 32
+# of feats=3 Fitness=-0.242584752039 [0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 33
+# of feats=3 Fitness=-0.242584752039 [0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 34
+# of feats=3 Fitness=-0.242584752039 [0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 35
+# of feats=3 Fitness=-0.242584752039 [0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 36
+# of feats=3 Fitness=-0.242584752039 [0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 37
+# of feats=3 Fitness=-0.242584752039 [0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 38
+# of feats=3 Fitness=-0.242584752039 [0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 39
+# of feats=3 Fitness=-0.242584752039 [0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 40
+# of feats=3 Fitness=-0.242584752039 [0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 41
+# of feats=3 Fitness=-0.242584752039 [0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 42
+# of feats=3 Fitness=-0.242584752039 [0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 43
+# of feats=3 Fitness=-0.242584752039 [0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 44
+# of feats=3 Fitness=-0.242584752039 [0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 45
+# of feats=3 Fitness=-0.242584752039 [0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 46
+# of feats=3 Fitness=-0.242584752039 [0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 47
+# of feats=3 Fitness=-0.242584752039 [0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 48
+# of feats=3 Fitness=-0.242584752039 [0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 49
+# of feats=3 Fitness=-0.242584752039 [0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 50
+# of feats=3 Fitness=-0.242584752039 [0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 1
+# of feats=4 Fitness=-0.133356636149 [0, 1, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0]
+Generation 2
+# of feats=5 Fitness=-0.187276756002 [0, 1, 0, 0, 1, 1, 0, 0, 0, 0, 1, 1, 0, 0]
+Generation 3
+# of feats=4 Fitness=-0.246561064942 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 1, 0, 0]
+Generation 4
+# of feats=4 Fitness=-0.246561064942 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 1, 0, 0]
+Generation 5
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 6
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 7
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 8
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 9
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 10
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 11
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 12
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 13
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 14
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 15
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 16
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 17
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 18
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 19
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 20
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 21
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 22
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 23
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 24
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 25
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 26
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 27
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 28
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 29
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 30
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 31
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 32
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 33
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 34
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 35
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 36
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 37
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 38
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 39
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 40
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 41
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 42
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 43
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 44
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 45
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 46
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 47
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 48
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 49
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 50
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 1
+# of feats=3 Fitness=-0.143794831339 [0, 0, 0, 0, 0, 1, 1, 0, 1, 0, 0, 0, 0, 0]
+Generation 2
+# of feats=4 Fitness=-0.169662358952 [0, 0, 0, 0, 0, 1, 1, 0, 1, 0, 1, 0, 0, 0]
+Generation 3
+# of feats=4 Fitness=-0.169662358952 [0, 0, 0, 0, 0, 1, 1, 0, 1, 0, 1, 0, 0, 0]
+Generation 4
+# of feats=3 Fitness=-0.196118023419 [0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 5
+# of feats=4 Fitness=-0.233278328763 [0, 0, 1, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 6
+# of feats=3 Fitness=-0.242584752039 [0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 7
+# of feats=3 Fitness=-0.242584752039 [0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 8
+# of feats=3 Fitness=-0.242584752039 [0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 9
+# of feats=3 Fitness=-0.242584752039 [0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 10
+# of feats=3 Fitness=-0.242584752039 [0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 11
+# of feats=3 Fitness=-0.242584752039 [0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 12
+# of feats=3 Fitness=-0.242584752039 [0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 13
+# of feats=3 Fitness=-0.242584752039 [0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 14
+# of feats=3 Fitness=-0.242584752039 [0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 15
+# of feats=3 Fitness=-0.242584752039 [0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 16
+# of feats=3 Fitness=-0.242584752039 [0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 17
+# of feats=3 Fitness=-0.242584752039 [0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 18
+# of feats=3 Fitness=-0.242584752039 [0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 19
+# of feats=3 Fitness=-0.242584752039 [0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 20
+# of feats=3 Fitness=-0.242584752039 [0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 21
+# of feats=3 Fitness=-0.242584752039 [0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 22
+# of feats=3 Fitness=-0.242584752039 [0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 23
+# of feats=3 Fitness=-0.242584752039 [0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 24
+# of feats=3 Fitness=-0.242584752039 [0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 25
+# of feats=3 Fitness=-0.242584752039 [0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 26
+# of feats=3 Fitness=-0.242584752039 [0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 27
+# of feats=3 Fitness=-0.242584752039 [0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 28
+# of feats=3 Fitness=-0.242584752039 [0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 29
+# of feats=3 Fitness=-0.242584752039 [0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 30
+# of feats=3 Fitness=-0.242584752039 [0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 31
+# of feats=3 Fitness=-0.242584752039 [0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 32
+# of feats=3 Fitness=-0.242584752039 [0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 33
+# of feats=3 Fitness=-0.242584752039 [0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 34
+# of feats=3 Fitness=-0.242584752039 [0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 35
+# of feats=3 Fitness=-0.242584752039 [0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 36
+# of feats=3 Fitness=-0.242584752039 [0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 37
+# of feats=3 Fitness=-0.242584752039 [0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 38
+# of feats=3 Fitness=-0.242584752039 [0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 39
+# of feats=3 Fitness=-0.242584752039 [0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 40
+# of feats=3 Fitness=-0.242584752039 [0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 41
+# of feats=3 Fitness=-0.242584752039 [0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 42
+# of feats=3 Fitness=-0.242584752039 [0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 43
+# of feats=3 Fitness=-0.242584752039 [0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 44
+# of feats=3 Fitness=-0.242584752039 [0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 45
+# of feats=3 Fitness=-0.242584752039 [0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 46
+# of feats=3 Fitness=-0.242584752039 [0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 47
+# of feats=3 Fitness=-0.242584752039 [0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 48
+# of feats=3 Fitness=-0.242584752039 [0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 49
+# of feats=3 Fitness=-0.242584752039 [0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 50
+# of feats=3 Fitness=-0.242584752039 [0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 1
+# of feats=5 Fitness=-0.0529593616539 [1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 0]
+Generation 2
+# of feats=4 Fitness=-0.23398400517 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 1, 0, 0]
+Generation 3
+# of feats=3 Fitness=-0.237090056185 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0]
+Generation 4
+# of feats=3 Fitness=-0.237090056185 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0]
+Generation 5
+# of feats=3 Fitness=-0.237090056185 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0]
+Generation 6
+# of feats=3 Fitness=-0.237090056185 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0]
+Generation 7
+# of feats=3 Fitness=-0.237090056185 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0]
+Generation 8
+# of feats=3 Fitness=-0.237090056185 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0]
+Generation 9
+# of feats=3 Fitness=-0.237090056185 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0]
+Generation 10
+# of feats=3 Fitness=-0.237090056185 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0]
+Generation 11
+# of feats=3 Fitness=-0.237090056185 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0]
+Generation 12
+# of feats=3 Fitness=-0.237090056185 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0]
+Generation 13
+# of feats=3 Fitness=-0.237090056185 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0]
+Generation 14
+# of feats=3 Fitness=-0.237090056185 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0]
+Generation 15
+# of feats=3 Fitness=-0.237090056185 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0]
+Generation 16
+# of feats=3 Fitness=-0.237090056185 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0]
+Generation 17
+# of feats=3 Fitness=-0.237090056185 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0]
+Generation 18
+# of feats=3 Fitness=-0.237090056185 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0]
+Generation 19
+# of feats=3 Fitness=-0.237090056185 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0]
+Generation 20
+# of feats=3 Fitness=-0.237090056185 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0]
+Generation 21
+# of feats=3 Fitness=-0.237090056185 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0]
+Generation 22
+# of feats=3 Fitness=-0.237090056185 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0]
+Generation 23
+# of feats=3 Fitness=-0.237090056185 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0]
+Generation 24
+# of feats=3 Fitness=-0.237090056185 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0]
+Generation 25
+# of feats=3 Fitness=-0.237090056185 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0]
+Generation 26
+# of feats=3 Fitness=-0.237090056185 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0]
+Generation 27
+# of feats=3 Fitness=-0.237090056185 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0]
+Generation 28
+# of feats=3 Fitness=-0.237090056185 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0]
+Generation 29
+# of feats=3 Fitness=-0.237090056185 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0]
+Generation 30
+# of feats=3 Fitness=-0.237090056185 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0]
+Generation 31
+# of feats=3 Fitness=-0.237090056185 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0]
+Generation 32
+# of feats=3 Fitness=-0.237090056185 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0]
+Generation 33
+# of feats=3 Fitness=-0.237090056185 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0]
+Generation 34
+# of feats=3 Fitness=-0.237090056185 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0]
+Generation 35
+# of feats=3 Fitness=-0.237090056185 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0]
+Generation 36
+# of feats=3 Fitness=-0.237090056185 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0]
+Generation 37
+# of feats=3 Fitness=-0.237090056185 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0]
+Generation 38
+# of feats=3 Fitness=-0.237090056185 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0]
+Generation 39
+# of feats=3 Fitness=-0.237090056185 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0]
+Generation 40
+# of feats=3 Fitness=-0.237090056185 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0]
+Generation 41
+# of feats=3 Fitness=-0.237090056185 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0]
+Generation 42
+# of feats=3 Fitness=-0.237090056185 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0]
+Generation 43
+# of feats=3 Fitness=-0.237090056185 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0]
+Generation 44
+# of feats=3 Fitness=-0.237090056185 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0]
+Generation 45
+# of feats=3 Fitness=-0.237090056185 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0]
+Generation 46
+# of feats=3 Fitness=-0.237090056185 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0]
+Generation 47
+# of feats=3 Fitness=-0.237090056185 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0]
+Generation 48
+# of feats=3 Fitness=-0.237090056185 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0]
+Generation 49
+# of feats=3 Fitness=-0.237090056185 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0]
+Generation 50
+# of feats=3 Fitness=-0.237090056185 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0]
+Generation 1
+# of feats=4 Fitness=-0.0152192766476 [0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1, 0, 1]
+Generation 2
+# of feats=4 Fitness=-0.246561064942 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 1, 0, 0]
+Generation 3
+# of feats=4 Fitness=-0.246561064942 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 1, 0, 0]
+Generation 4
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 5
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 6
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 7
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 8
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 9
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 10
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 11
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 12
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 13
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 14
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 15
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 16
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 17
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 18
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 19
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 20
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 21
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 22
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 23
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 24
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 25
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 26
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 27
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 28
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 29
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 30
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 31
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 32
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 33
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 34
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 35
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 36
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 37
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 38
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 39
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 40
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 41
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 42
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 43
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 44
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 45
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 46
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 47
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 48
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 49
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 50
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 1
+# of feats=4 Fitness=-0.132401733783 [0, 1, 0, 0, 0, 0, 0, 1, 1, 0, 0, 1, 0, 0]
+Generation 2
+# of feats=2 Fitness=-0.211007040666 [0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]
+Generation 3
+# of feats=3 Fitness=-0.231195252762 [0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0]
+Generation 4
+# of feats=3 Fitness=-0.231195252762 [0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0]
+Generation 5
+# of feats=3 Fitness=-0.231195252762 [0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0]
+Generation 6
+# of feats=4 Fitness=-0.233278328763 [0, 0, 1, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 7
+# of feats=4 Fitness=-0.233278328763 [0, 0, 1, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 8
+# of feats=4 Fitness=-0.233278328763 [0, 0, 1, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 9
+# of feats=4 Fitness=-0.233278328763 [0, 0, 1, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 10
+# of feats=3 Fitness=-0.242584752039 [0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 11
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 12
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 13
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 14
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 15
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 16
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 17
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 18
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 19
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 20
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 21
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 22
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 23
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 24
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 25
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 26
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 27
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 28
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 29
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 30
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 31
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 32
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 33
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 34
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 35
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 36
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 37
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 38
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 39
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 40
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 41
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 42
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 43
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 44
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 45
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 46
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 47
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 48
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 49
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 50
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 1
+# of feats=5 Fitness=-0.101159471149 [0, 0, 1, 0, 1, 0, 0, 1, 0, 0, 0, 1, 0, 1]
+Generation 2
+# of feats=3 Fitness=-0.214499729479 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 1, 0, 0]
+Generation 3
+# of feats=3 Fitness=-0.224984000957 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 1, 0, 0]
+Generation 4
+# of feats=3 Fitness=-0.224984000957 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 1, 0, 0]
+Generation 5
+# of feats=3 Fitness=-0.224984000957 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 1, 0, 0]
+Generation 6
+# of feats=3 Fitness=-0.224984000957 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 1, 0, 0]
+Generation 7
+# of feats=3 Fitness=-0.224984000957 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 1, 0, 0]
+Generation 8
+# of feats=3 Fitness=-0.224984000957 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 1, 0, 0]
+Generation 9
+# of feats=3 Fitness=-0.224984000957 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 1, 0, 0]
+Generation 10
+# of feats=3 Fitness=-0.224984000957 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 1, 0, 0]
+Generation 11
+# of feats=3 Fitness=-0.224984000957 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 1, 0, 0]
+Generation 12
+# of feats=3 Fitness=-0.224984000957 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 1, 0, 0]
+Generation 13
+# of feats=3 Fitness=-0.224984000957 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 1, 0, 0]
+Generation 14
+# of feats=3 Fitness=-0.224984000957 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 1, 0, 0]
+Generation 15
+# of feats=3 Fitness=-0.224984000957 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 1, 0, 0]
+Generation 16
+# of feats=3 Fitness=-0.224984000957 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 1, 0, 0]
+Generation 17
+# of feats=3 Fitness=-0.224984000957 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 1, 0, 0]
+Generation 18
+# of feats=3 Fitness=-0.224984000957 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 1, 0, 0]
+Generation 19
+# of feats=3 Fitness=-0.224984000957 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 1, 0, 0]
+Generation 20
+# of feats=3 Fitness=-0.224984000957 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 1, 0, 0]
+Generation 21
+# of feats=3 Fitness=-0.224984000957 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 1, 0, 0]
+Generation 22
+# of feats=4 Fitness=-0.246561064942 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 1, 0, 0]
+Generation 23
+# of feats=4 Fitness=-0.246561064942 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 1, 0, 0]
+Generation 24
+# of feats=4 Fitness=-0.246561064942 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 1, 0, 0]
+Generation 25
+# of feats=4 Fitness=-0.246561064942 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 1, 0, 0]
+Generation 26
+# of feats=4 Fitness=-0.246561064942 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 1, 0, 0]
+Generation 27
+# of feats=4 Fitness=-0.246561064942 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 1, 0, 0]
+Generation 28
+# of feats=4 Fitness=-0.246561064942 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 1, 0, 0]
+Generation 29
+# of feats=4 Fitness=-0.246561064942 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 1, 0, 0]
+Generation 30
+# of feats=4 Fitness=-0.246561064942 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 1, 0, 0]
+Generation 31
+# of feats=4 Fitness=-0.246561064942 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 1, 0, 0]
+Generation 32
+# of feats=4 Fitness=-0.246561064942 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 1, 0, 0]
+Generation 33
+# of feats=4 Fitness=-0.246561064942 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 1, 0, 0]
+Generation 34
+# of feats=4 Fitness=-0.246561064942 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 1, 0, 0]
+Generation 35
+# of feats=4 Fitness=-0.246561064942 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 1, 0, 0]
+Generation 36
+# of feats=4 Fitness=-0.246561064942 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 1, 0, 0]
+Generation 37
+# of feats=4 Fitness=-0.246561064942 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 1, 0, 0]
+Generation 38
+# of feats=4 Fitness=-0.246561064942 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 1, 0, 0]
+Generation 39
+# of feats=4 Fitness=-0.246561064942 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 1, 0, 0]
+Generation 40
+# of feats=4 Fitness=-0.246561064942 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 1, 0, 0]
+Generation 41
+# of feats=4 Fitness=-0.246561064942 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 1, 0, 0]
+Generation 42
+# of feats=4 Fitness=-0.246561064942 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 1, 0, 0]
+Generation 43
+# of feats=4 Fitness=-0.246561064942 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 1, 0, 0]
+Generation 44
+# of feats=4 Fitness=-0.246561064942 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 1, 0, 0]
+Generation 45
+# of feats=4 Fitness=-0.246561064942 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 1, 0, 0]
+Generation 46
+# of feats=4 Fitness=-0.246561064942 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 1, 0, 0]
+Generation 47
+# of feats=4 Fitness=-0.246561064942 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 1, 0, 0]
+Generation 48
+# of feats=4 Fitness=-0.246561064942 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 1, 0, 0]
+Generation 49
+# of feats=4 Fitness=-0.246561064942 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 1, 0, 0]
+Generation 50
+# of feats=4 Fitness=-0.246561064942 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 1, 0, 0]
+Generation 1
+# of feats=4 Fitness=-0.193254333654 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 1, 0]
+Generation 2
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 3
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 4
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 5
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 6
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 7
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 8
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 9
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 10
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 11
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 12
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 13
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 14
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 15
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 16
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 17
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 18
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 19
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 20
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 21
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 22
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 23
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 24
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 25
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 26
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 27
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 28
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 29
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 30
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 31
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 32
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 33
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 34
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 35
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 36
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 37
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 38
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 39
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 40
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 41
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 42
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 43
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 44
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 45
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 46
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 47
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 48
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 49
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 50
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 1
+# of feats=2 Fitness=-0.123118139703 [0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 2
+# of feats=2 Fitness=-0.215829501223 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0]
+Generation 3
+# of feats=3 Fitness=-0.237090056185 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0]
+Generation 4
+# of feats=3 Fitness=-0.237090056185 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0]
+Generation 5
+# of feats=3 Fitness=-0.237090056185 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0]
+Generation 6
+# of feats=3 Fitness=-0.237090056185 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0]
+Generation 7
+# of feats=3 Fitness=-0.237090056185 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0]
+Generation 8
+# of feats=3 Fitness=-0.237090056185 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0]
+Generation 9
+# of feats=3 Fitness=-0.237090056185 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0]
+Generation 10
+# of feats=3 Fitness=-0.237090056185 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0]
+Generation 11
+# of feats=3 Fitness=-0.237090056185 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0]
+Generation 12
+# of feats=3 Fitness=-0.237090056185 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0]
+Generation 13
+# of feats=3 Fitness=-0.237090056185 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0]
+Generation 14
+# of feats=3 Fitness=-0.237090056185 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0]
+Generation 15
+# of feats=3 Fitness=-0.237090056185 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0]
+Generation 16
+# of feats=3 Fitness=-0.237090056185 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0]
+Generation 17
+# of feats=3 Fitness=-0.237090056185 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0]
+Generation 18
+# of feats=3 Fitness=-0.237090056185 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0]
+Generation 19
+# of feats=3 Fitness=-0.237090056185 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0]
+Generation 20
+# of feats=3 Fitness=-0.237090056185 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0]
+Generation 21
+# of feats=3 Fitness=-0.237090056185 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0]
+Generation 22
+# of feats=3 Fitness=-0.237090056185 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0]
+Generation 23
+# of feats=3 Fitness=-0.237090056185 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0]
+Generation 24
+# of feats=3 Fitness=-0.237090056185 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0]
+Generation 25
+# of feats=3 Fitness=-0.237090056185 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0]
+Generation 26
+# of feats=3 Fitness=-0.237090056185 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0]
+Generation 27
+# of feats=3 Fitness=-0.237090056185 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0]
+Generation 28
+# of feats=3 Fitness=-0.237090056185 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0]
+Generation 29
+# of feats=3 Fitness=-0.237090056185 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0]
+Generation 30
+# of feats=3 Fitness=-0.237090056185 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0]
+Generation 31
+# of feats=3 Fitness=-0.237090056185 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0]
+Generation 32
+# of feats=3 Fitness=-0.237090056185 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0]
+Generation 33
+# of feats=3 Fitness=-0.237090056185 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0]
+Generation 34
+# of feats=3 Fitness=-0.237090056185 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0]
+Generation 35
+# of feats=3 Fitness=-0.237090056185 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0]
+Generation 36
+# of feats=3 Fitness=-0.237090056185 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0]
+Generation 37
+# of feats=3 Fitness=-0.237090056185 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0]
+Generation 38
+# of feats=3 Fitness=-0.237090056185 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0]
+Generation 39
+# of feats=3 Fitness=-0.237090056185 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0]
+Generation 40
+# of feats=3 Fitness=-0.237090056185 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0]
+Generation 41
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 42
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 43
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 44
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 45
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 46
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 47
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 48
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 49
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 50
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 1
+# of feats=3 Fitness=-0.186447310138 [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 1]
+Generation 2
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 3
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 4
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 5
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 6
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 7
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 8
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 9
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 10
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 11
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 12
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 13
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 14
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 15
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 16
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 17
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 18
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 19
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 20
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 21
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 22
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 23
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 24
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 25
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 26
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 27
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 28
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 29
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 30
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 31
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 32
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 33
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 34
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 35
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 36
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 37
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 38
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 39
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 40
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 41
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 42
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 43
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 44
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 45
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 46
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 47
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 48
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 49
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 50
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 1
+# of feats=6 Fitness=-0.0857114584897 [0, 1, 0, 0, 1, 1, 0, 0, 0, 0, 1, 1, 1, 0]
+Generation 2
+# of feats=3 Fitness=-0.218714305779 [0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0]
+Generation 3
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 4
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 5
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 6
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 7
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 8
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 9
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 10
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 11
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 12
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 13
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 14
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 15
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 16
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 17
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 18
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 19
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 20
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 21
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 22
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 23
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 24
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 25
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 26
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 27
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 28
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 29
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 30
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 31
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 32
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 33
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 34
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 35
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 36
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 37
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 38
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 39
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 40
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 41
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 42
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 43
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 44
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 45
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 46
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 47
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 48
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 49
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 50
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 1
+# of feats=4 Fitness=-0.0978969387352 [0, 0, 1, 0, 1, 0, 0, 0, 1, 0, 1, 0, 0, 0]
+Generation 2
+# of feats=3 Fitness=-0.213377361679 [0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 1, 0, 0]
+Generation 3
+# of feats=3 Fitness=-0.237090056185 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0]
+Generation 4
+# of feats=3 Fitness=-0.237090056185 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0]
+Generation 5
+# of feats=3 Fitness=-0.237090056185 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0]
+Generation 6
+# of feats=3 Fitness=-0.237090056185 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0]
+Generation 7
+# of feats=3 Fitness=-0.237090056185 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0]
+Generation 8
+# of feats=3 Fitness=-0.237090056185 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0]
+Generation 9
+# of feats=3 Fitness=-0.237090056185 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0]
+Generation 10
+# of feats=3 Fitness=-0.237090056185 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0]
+Generation 11
+# of feats=3 Fitness=-0.237090056185 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0]
+Generation 12
+# of feats=3 Fitness=-0.237090056185 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0]
+Generation 13
+# of feats=3 Fitness=-0.237090056185 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0]
+Generation 14
+# of feats=3 Fitness=-0.237090056185 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0]
+Generation 15
+# of feats=4 Fitness=-0.246561064942 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 1, 0, 0]
+Generation 16
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 17
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 18
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 19
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 20
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 21
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 22
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 23
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 24
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 25
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 26
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 27
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 28
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 29
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 30
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 31
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 32
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 33
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 34
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 35
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 36
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 37
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 38
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 39
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 40
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 41
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 42
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 43
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 44
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 45
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 46
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 47
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 48
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 49
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 50
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 1
+# of feats=5 Fitness=-0.0904590390981 [1, 0, 1, 1, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0]
+Generation 2
+# of feats=4 Fitness=-0.143893112948 [1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 1, 0, 0]
+Generation 3
+# of feats=4 Fitness=-0.145871526969 [1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 1, 0, 0]
+Generation 4
+# of feats=4 Fitness=-0.145871526969 [1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 1, 0, 0]
+Generation 5
+# of feats=4 Fitness=-0.145871526969 [1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 1, 0, 0]
+Generation 6
+# of feats=4 Fitness=-0.145871526969 [1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 1, 0, 0]
+Generation 7
+# of feats=4 Fitness=-0.145871526969 [1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 1, 0, 0]
+Generation 8
+# of feats=4 Fitness=-0.145871526969 [1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 1, 0, 0]
+Generation 9
+# of feats=4 Fitness=-0.145871526969 [1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 1, 0, 0]
+Generation 10
+# of feats=4 Fitness=-0.145871526969 [1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 1, 0, 0]
+Generation 11
+# of feats=4 Fitness=-0.145871526969 [1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 1, 0, 0]
+Generation 12
+# of feats=4 Fitness=-0.145871526969 [1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 1, 0, 0]
+Generation 13
+# of feats=4 Fitness=-0.145871526969 [1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 1, 0, 0]
+Generation 14
+# of feats=4 Fitness=-0.145871526969 [1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 1, 0, 0]
+Generation 15
+# of feats=4 Fitness=-0.145871526969 [1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 1, 0, 0]
+Generation 16
+# of feats=4 Fitness=-0.145871526969 [1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 1, 0, 0]
+Generation 17
+# of feats=4 Fitness=-0.145871526969 [1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 1, 0, 0]
+Generation 18
+# of feats=4 Fitness=-0.145871526969 [1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 1, 0, 0]
+Generation 19
+# of feats=4 Fitness=-0.145871526969 [1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 1, 0, 0]
+Generation 20
+# of feats=4 Fitness=-0.145871526969 [1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 1, 0, 0]
+Generation 21
+# of feats=4 Fitness=-0.145871526969 [1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 1, 0, 0]
+Generation 22
+# of feats=4 Fitness=-0.145871526969 [1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 1, 0, 0]
+Generation 23
+# of feats=4 Fitness=-0.145871526969 [1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 1, 0, 0]
+Generation 24
+# of feats=4 Fitness=-0.145871526969 [1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 1, 0, 0]
+Generation 25
+# of feats=4 Fitness=-0.145871526969 [1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 1, 0, 0]
+Generation 26
+# of feats=4 Fitness=-0.145871526969 [1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 1, 0, 0]
+Generation 27
+# of feats=4 Fitness=-0.145871526969 [1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 1, 0, 0]
+Generation 28
+# of feats=4 Fitness=-0.145871526969 [1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 1, 0, 0]
+Generation 29
+# of feats=4 Fitness=-0.145871526969 [1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 1, 0, 0]
+Generation 30
+# of feats=4 Fitness=-0.145871526969 [1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 1, 0, 0]
+Generation 31
+# of feats=4 Fitness=-0.145871526969 [1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 1, 0, 0]
+Generation 32
+# of feats=4 Fitness=-0.145871526969 [1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 1, 0, 0]
+Generation 33
+# of feats=4 Fitness=-0.145871526969 [1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 1, 0, 0]
+Generation 34
+# of feats=4 Fitness=-0.145871526969 [1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 1, 0, 0]
+Generation 35
+# of feats=4 Fitness=-0.145871526969 [1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 1, 0, 0]
+Generation 36
+# of feats=4 Fitness=-0.145871526969 [1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 1, 0, 0]
+Generation 37
+# of feats=4 Fitness=-0.145871526969 [1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 1, 0, 0]
+Generation 38
+# of feats=4 Fitness=-0.163220997428 [1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0]
+Generation 39
+# of feats=4 Fitness=-0.163220997428 [1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0]
+Generation 40
+# of feats=4 Fitness=-0.163220997428 [1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0]
+Generation 41
+# of feats=4 Fitness=-0.163220997428 [1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0]
+Generation 42
+# of feats=4 Fitness=-0.163220997428 [1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0]
+Generation 43
+# of feats=4 Fitness=-0.163220997428 [1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0]
+Generation 44
+# of feats=4 Fitness=-0.163220997428 [1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0]
+Generation 45
+# of feats=4 Fitness=-0.163220997428 [1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0]
+Generation 46
+# of feats=4 Fitness=-0.163220997428 [1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0]
+Generation 47
+# of feats=4 Fitness=-0.163220997428 [1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0]
+Generation 48
+# of feats=4 Fitness=-0.163220997428 [1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0]
+Generation 49
+# of feats=4 Fitness=-0.163220997428 [1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0]
+Generation 50
+# of feats=4 Fitness=-0.163220997428 [1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0]
+Generation 1
+# of feats=5 Fitness=-0.140244886986 [1, 0, 0, 0, 1, 0, 0, 0, 1, 1, 1, 0, 0, 0]
+Generation 2
+# of feats=4 Fitness=-0.148319819675 [1, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0, 0]
+Generation 3
+# of feats=3 Fitness=-0.153260715444 [1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0]
+Generation 4
+# of feats=4 Fitness=-0.163220997428 [1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0]
+Generation 5
+# of feats=4 Fitness=-0.163220997428 [1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0]
+Generation 6
+# of feats=4 Fitness=-0.163220997428 [1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0]
+Generation 7
+# of feats=4 Fitness=-0.163220997428 [1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0]
+Generation 8
+# of feats=4 Fitness=-0.163220997428 [1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0]
+Generation 9
+# of feats=4 Fitness=-0.163220997428 [1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0]
+Generation 10
+# of feats=4 Fitness=-0.163220997428 [1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0]
+Generation 11
+# of feats=4 Fitness=-0.163220997428 [1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0]
+Generation 12
+# of feats=4 Fitness=-0.163220997428 [1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0]
+Generation 13
+# of feats=4 Fitness=-0.163220997428 [1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0]
+Generation 14
+# of feats=4 Fitness=-0.163220997428 [1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0]
+Generation 15
+# of feats=4 Fitness=-0.163220997428 [1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0]
+Generation 16
+# of feats=4 Fitness=-0.163220997428 [1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0]
+Generation 17
+# of feats=4 Fitness=-0.163220997428 [1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0]
+Generation 18
+# of feats=4 Fitness=-0.163220997428 [1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0]
+Generation 19
+# of feats=4 Fitness=-0.163220997428 [1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0]
+Generation 20
+# of feats=4 Fitness=-0.163220997428 [1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0]
+Generation 21
+# of feats=4 Fitness=-0.163220997428 [1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0]
+Generation 22
+# of feats=4 Fitness=-0.163220997428 [1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0]
+Generation 23
+# of feats=4 Fitness=-0.163220997428 [1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0]
+Generation 24
+# of feats=4 Fitness=-0.163220997428 [1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0]
+Generation 25
+# of feats=4 Fitness=-0.163220997428 [1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0]
+Generation 26
+# of feats=4 Fitness=-0.163220997428 [1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0]
+Generation 27
+# of feats=4 Fitness=-0.163220997428 [1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0]
+Generation 28
+# of feats=4 Fitness=-0.163220997428 [1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0]
+Generation 29
+# of feats=4 Fitness=-0.163220997428 [1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0]
+Generation 30
+# of feats=4 Fitness=-0.163220997428 [1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0]
+Generation 31
+# of feats=4 Fitness=-0.163220997428 [1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0]
+Generation 32
+# of feats=4 Fitness=-0.163220997428 [1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0]
+Generation 33
+# of feats=4 Fitness=-0.163220997428 [1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0]
+Generation 34
+# of feats=4 Fitness=-0.163220997428 [1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0]
+Generation 35
+# of feats=4 Fitness=-0.163220997428 [1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0]
+Generation 36
+# of feats=4 Fitness=-0.163220997428 [1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0]
+Generation 37
+# of feats=4 Fitness=-0.163220997428 [1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0]
+Generation 38
+# of feats=4 Fitness=-0.163220997428 [1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0]
+Generation 39
+# of feats=4 Fitness=-0.163220997428 [1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0]
+Generation 40
+# of feats=4 Fitness=-0.163220997428 [1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0]
+Generation 41
+# of feats=4 Fitness=-0.163220997428 [1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0]
+Generation 42
+# of feats=4 Fitness=-0.163220997428 [1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0]
+Generation 43
+# of feats=4 Fitness=-0.163220997428 [1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0]
+Generation 44
+# of feats=4 Fitness=-0.163220997428 [1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0]
+Generation 45
+# of feats=4 Fitness=-0.163220997428 [1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0]
+Generation 46
+# of feats=4 Fitness=-0.163220997428 [1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0]
+Generation 47
+# of feats=4 Fitness=-0.163220997428 [1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0]
+Generation 48
+# of feats=4 Fitness=-0.163220997428 [1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0]
+Generation 49
+# of feats=4 Fitness=-0.163220997428 [1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0]
+Generation 50
+# of feats=4 Fitness=-0.163220997428 [1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0]
+Generation 1
+# of feats=4 Fitness=-0.246561064942 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 1, 0, 0]
+Generation 2
+# of feats=4 Fitness=-0.246561064942 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 1, 0, 0]
+Generation 3
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 4
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 5
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 6
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 7
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 8
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 9
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 10
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 11
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 12
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 13
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 14
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 15
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 16
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 17
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 18
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 19
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 20
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 21
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 22
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 23
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 24
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 25
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 26
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 27
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 28
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 29
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 30
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 31
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 32
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 33
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 34
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 35
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 36
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 37
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 38
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 39
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 40
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 41
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 42
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 43
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 44
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 45
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 46
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 47
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 48
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 49
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Generation 50
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+#################################################
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+# of feats=3 Fitness=-0.242584752039 [0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+# of feats=3 Fitness=-0.242584752039 [0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+# of feats=3 Fitness=-0.242584752039 [0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+# of feats=3 Fitness=-0.237090056185 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0]
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+# of feats=3 Fitness=-0.248584349824 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+# of feats=4 Fitness=-0.233278328763 [0, 0, 1, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+# of feats=4 Fitness=-0.246561064942 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 1, 0, 0]
+# of feats=4 Fitness=-0.23398400517 [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 1, 0, 0]
+# of feats=4 Fitness=-0.246561064942 [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 1, 0, 0]
+# of feats=4 Fitness=-0.163220997428 [1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0]
+# of feats=4 Fitness=-0.163220997428 [1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0]
+---------Classification---------
+[0.7487292817679558, 3]
+[0.7487292817679558, 3]
+[0.7487292817679558, 3]
+[0.7487292817679558, 3]
+[0.7487292817679558, 3]
+[0.7881767955801104, 3]
+[0.7487292817679558, 3]
+[0.7487292817679558, 3]
+[0.7487292817679558, 3]
+[0.7487292817679558, 3]
+[0.7487292817679558, 3]
+[0.7487292817679558, 3]
+[0.7881767955801104, 3]
+[0.7487292817679558, 3]
+[0.7881767955801104, 3]
+[0.7580110497237569, 3]
+[0.7487292817679558, 3]
+[0.7487292817679558, 3]
+[0.7487292817679558, 3]
+[0.7487292817679558, 3]
+[0.7487292817679558, 3]
+[0.7487292817679558, 3]
+[0.7487292817679558, 3]
+[0.7487292817679558, 3]
+[0.8106077348066298, 4]
+[0.678121546961326, 4]
+[0.6329281767955801, 4]
+[0.678121546961326, 4]
+[0.7193370165745856, 4]
+[0.7193370165745856, 4]
++++++++++Overall+++++++++
+Number of features 3(24)  0.754046961326
+Number of features 4(6)  0.706408839779
+Number of features 14(1)  0.80044198895
